@@ -67,7 +67,7 @@ I find it also to graph my feelings, and compare graphs from one year to the nex
 * Physical environment: is the workplace conducive to work?  Do I enjoy coming into the office? 
 * Culture: do I feel the culture around me is healthy?  Are risks encouraged?  Are individuals wrongly blamed when something goes wrong?  Is there too much politics instead of honest communication?  Are people enjoying themselves and their coworkers?
 
-[PIC OF CAREER CURVE HERE]
+![Career Board](https://raw.github.com/JeffCohen/retro-article/master/career-board.png)
 
 Plot each of these and connect the dots into a curve.  I think you'll find it a great way to describe how you feel about your current situation.
 
