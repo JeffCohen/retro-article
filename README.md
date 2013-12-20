@@ -80,7 +80,8 @@ But perhaps best of all, your retro curve will act as spotlight, pinpointing the
 
 Finally I'd like to describe how to use a retrospective in a classroom setting.  As Chief Instructor of The Starter League in Chicago, I've taught 17 distinct sections of our beginner-focused Web Development course for non-programmers.  At the beginning, I knew I wanted to incorporate the concept of retrospectives into the classroom but I wasn't sure how.  I tried many different formats and experiments over that time, converging on a simple technique that I think every teacher can put into practice.  I call it the Aha/Fuzzy board, and it looks like this:
 
-[PIC OF AHA BOARD HERE]
+![Team Board](https://raw.github.com/JeffCohen/retro-article/master/classroom-board.png)
+
 
 Here's the process I use:
 
