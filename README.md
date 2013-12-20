@@ -25,7 +25,7 @@ I think teams that don't do retrospectives have lost sight of their value.  Perh
 
 So let's get back to the basics and use plain empiricism. If you've had bad luck running retrospectives on your team, or never tried them before, he's a technique that I think will get you off to a good start: the four-quadrant poster.  Here's what it looks like:
 
-![Team Board](https://github.com/JeffCohen/retro-article/blob/master/team-board.png)
+![Team Board](https://raw.github.com/JeffCohen/retro-article/master/team-board.png)
 
 It's a simple process.  Start with food.  Everybody likes food.  Get this poster up on a wall or projected onto the screen.  Everybody takes turns shouting out one-sentence retrospective items that fall into one of these four categories.
 
