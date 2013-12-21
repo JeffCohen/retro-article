@@ -1,10 +1,15 @@
 # Pools of Reflection
 
-They say hindsight is 20/20.  They say, learn from your mistakes.  They say, if we don't know our own history, we're doomed to repeat it.
+As developers and managers, most of us are always on the go.  We're focused on the next project, the next deadline, the next client.  Always looking forward.
 
-If these statements are true, then understanding what we've done will help us do better in the future.  But if you're like me, they generally remain in the realm of theory and cliché.  It's not fun to look back.  It's more fun to only focus on the here and now, and believing we will automatically do better next time.
+Is it ever worthwhile to look back?
 
-Hindsight is indeed 20/20, but it also clears up the picture of the future. I'm here to tell you that if you want anything to improve - whether it's your product, your team's performance, or you career - you have to look back in order to see ahead.
+I think it is.  Recall the old clichés. Hindsight is 20/20.  Learn from your mistakes.  If you don't know your history, you're doomed to repeat it.  We can all agree that understanding what we've done in the past will help us perform better in the future.
+
+But if you're like me, these phrases remain solidly in the realm of theory and cliché.  Let's face it, it's not fun to look back.  So we prefer to simply focus on the here and now, believing we will somehow do better next time.
+
+I think we disregard the value of looking back because we think that's all it is: looking back.
+Hindsight is indeed 20/20, but it also sharpens our picture of the future. If you want to improve something - whether it's your product, your team's performance, or you career - you have to look back in order to see clearly ahead.
 
 ### What is a Retrospective?
 
