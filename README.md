@@ -75,7 +75,7 @@ But perhaps best of all, your retro curve will act as a spotlight, shining light
 
 Finally I'd like to describe how to use a retrospective in a classroom setting.  As Chief Instructor of The Starter League in Chicago, I've taught about 20 distinct sections of our beginner-focused Web Development course for non-programmers.  At the beginning, I knew I wanted to incorporate the concept of retrospectives into the classroom, but I wasn't sure how.  I tried many different formats and experiments, converging on a simple technique that I think every teacher, regardless of subject area, can put into practice.  I call it the Aha/Fuzzy board, and it looks like this:
 
-[PIC OF AHA BOARD HERE]
+![Aha Board](https://raw.github.com/JeffCohen/retro-article/master/classroom-board.png)
 
 Here's the process I use.  At the end of each week, I put up the Aha/Fuzzy Board, and for ten minutes students shout items that should go on the board.  An "Aha!" is one thing that a student learned that week.  One light-bulb.  A moment of clarity, no matter how small.  In my class, it might be "I know how to put a border around an image!" or "I finally understood how to use the .each method" or "A hyperlink isn't a magical thing to me anymore."  I encourage students to jot these aha moments down throughout the week so they can be ready for our Friday sessions.
 
