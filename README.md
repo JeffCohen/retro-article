@@ -19,7 +19,7 @@ Agile teams have a menu of choices when it comes to sprint activities.  In addit
 
 If you're new to the notion of a "retrospective,"  it's simply a designated time at the end of each sprint for the team to take a breather and reflect on the work that's been done. Together, the team discusses ways in which they would like to improve the next sprint.
 
-But I have also found that retrospectives aren't just for teams.  I will begin with a brief summary of my personal spin on the team retrospective format.   I will also share the approaches I've used successfully in two other settings: improving student outcomes in classrooms, and for personal career growth.
+But I have also found that retrospectives aren't just for teams.  I will begin with a brief summary of my personal spin on the team retrospective format, and then describe how I've successfully adapted it for improving student outcomes in classrooms, and for personal career growth.
 
 
 ### For Agile Development Teams
