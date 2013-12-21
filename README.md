@@ -4,12 +4,12 @@ As developers and managers, most of us are always on the go.  We're focused on t
 
 Is it ever worthwhile to look back?
 
-I think it is.  Recall the old clichés. Hindsight is 20/20.  Learn from your mistakes.  If you don't know your history, you're doomed to repeat it.  We can all agree that understanding what we've done in the past will help us perform better in the future.
+I think it is.  You've heard it said that "hindsight is 20/20."  The infamous "learn from your mistakes."  And of course, "if you don't know your history, you're doomed to repeat it."
 
-But if you're like me, these phrases remain solidly in the realm of theory and cliché.  Let's face it, it's not fun to look back.  So we prefer to simply focus on the here and now, believing we will somehow do better next time.
+But if you're like me, these phrases remain solidly in the realm of theory and cliché.  Let's face it, it's not always fun to look back.  So we prefer to simply focus on the here and now, believing we will somehow do better next time.
 
-I think we disregard the value of looking back because we think that's all it is: looking back.
-Hindsight is indeed 20/20, but it also sharpens our picture of the future. If you want to improve something - whether it's your product, your team's performance, or you career - you have to look back in order to see clearly ahead.
+We disregard the value of looking back because we think that's all it is: looking back.
+Hindsight is indeed 20/20, but it also sharpens our picture of the future. If you want to improve something - whether it's your product, your team's performance, or you career - you have to look back in order to see ahead.
 
 ### What is a Retrospective?
 
