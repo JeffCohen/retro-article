@@ -6,7 +6,7 @@ If these statements are true, then understanding what we've done will help us do
 
 Hindsight is indeed 20/20, but it also clears up the picture of the future. I'm here to tell you that if you want anything to improve - whether it's your product, your team's performance, or you career - you have to look back in order to see ahead.
 
-## What is a Retrospective?
+### What is a Retrospective?
 
 Baked deep into the brain of every Agile team member is the notion of continual improvement.  Agile isn't really about delivering a perfect product as much as delivering a perfect *process*.  It's about finding ways to improve software outcomes in small steps, and on a rolling basis.  The *sprint* (usually about 2-3 weeks in length) becomes the team's official unit of time.  The team is expected to deliver improved software with each tick of the clock.
 
@@ -17,7 +17,7 @@ If you're new to the notion of a "retrospective,"  it's simply a designated time
 I will begin with a brief summary of my personal spin on the team retrospective format. But I have also found that retrospectives aren't just for teams.  I will also share the approaches I've used with success in two other contexts: for classrooms, and personal career growth.
 
 
-# For Agile Development Teams
+### For Agile Development Teams
 
 Retrospectives are strange things.  They can be more of an art than a science.  Some teams do retrospectives religiously, but for whatever reason, fail to improve from one sprint to the next.  Others might begin a project with enthusiasm for retrospectives, but give them up soon after.  In the hustle and bustle of a software project, where team members are already loaded to the max with a thousand chores and responsibilities, retrospectives can lose out to other, seemingly higher priority activities.
 
@@ -40,7 +40,7 @@ The idea isn't to come up with as many items as possible.  That tends to result 
 
 Keep your quadrant posters in a place that's always visible, as a constant reminder of the ways in which team agreed to improve.  Remember that thing about not letting history repeat itself?  That will happen if people forget what was agreed upon in the retro.  Your team will find it encouraging as they witness the evolution of the retrospective quadrants from one sprint to the next.
 
-# For Career Growth
+### For Career Growth
 
 The value of the retrospective can be so powerful that it's worth exploring how it can go beyond the classical agile team setting.  I'd like to spend the rest of our time describing two ways in which I have extrapolated it into two other meaningful scenerios: for personal career growth, and in the classroom.
 
@@ -70,7 +70,7 @@ Plot each of these and connect the dots into a rough curve.  You're not going fo
 But perhaps best of all, your retro curve will act as a spotlight, shining light directly on the areas you can choose to focus on for positive change.  Ask yourself what it would mean to move every data point up to a 10.  Showing your retrospective graph to your boss can be a great way to get an open dialogue started.
 
 
-# In Educational Settings
+### In Educational Settings
 
 
 Finally I'd like to describe how to use a retrospective in a classroom setting.  As Chief Instructor of The Starter League in Chicago, I've taught about 20 distinct sections of our beginner-focused Web Development course for non-programmers.  At the beginning, I knew I wanted to incorporate the concept of retrospectives into the classroom, but I wasn't sure how.  I tried many different formats and experiments, converging on a simple technique that I think every teacher, regardless of subject area, can put into practice.  I call it the Aha/Fuzzy board, and it looks like this:
@@ -89,7 +89,7 @@ Sometimes when we start the retro process, there's silence.  No one can think of
 
 As the instructor, the Aha/Fuzzy board provides fantastic feedback on how I'm doing as a teacher.  I can quickly find out which of my lessons took root, and which did not.  Aha moments point to lessons that were crafted well; fuzzies tell me which topics I might want to spiral on again next week.  The board gives me food for thought on how to plan the next week.
 
-# Moving Forward
+### Moving Forward
 
 For me, taking time to reflect has been vital.  It's been like getting Lasik for my teams, my career, and my classroom.
 
